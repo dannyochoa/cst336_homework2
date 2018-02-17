@@ -1,0 +1,85 @@
+img{
+    width:100px;
+    height: 100px;
+}
+
+h1
+{
+    color:yellow;
+    text-align: center;
+    font-size:5em;
+}
+
+body{
+    background:black;
+}
+
+th{
+    float: left;
+}
+
+#message{
+    float:right;
+    font-size:1.3em;
+}
+
+#color0{
+    background:green;
+    color:white;
+}
+
+#color1{
+    background:white;
+}
+
+h2
+{
+    text-align: center;
+    color:yellow;
+}
+
+#winner img{
+    width:500px;
+    height: 500px;
+}
+
+#winner
+{
+    text-align: center;
+    font-size: 4em;
+    color:white;
+}
+
+input{
+    left:700px;
+    position:absolute;
+    font-size:1.3em;
+    font-weight:bold;
+    color:Red;
+    cursor:pointer;
+}
+
+#description
+{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background:gray;
+    text-align: center;
+}
+
+#description p{
+    font-size: 1.2em;
+    color:white;
+}
+
+h4{
+    color:white;
+    font-weight: bold;
+    font-size:1.5em;
+    margin-bottom: 0;
+}
+
+footer p{
+    color:gray;
+    font-size: 0.8em;
+}
